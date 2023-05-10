@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 18
           cache: "pnpm"
-          scope: "@oomol"
+          registry-url: "https://registry.npmjs.org"
 
       - name: Install dependencies
         run: pnpm i || pnpm i || pnpm i
