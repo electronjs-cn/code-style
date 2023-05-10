@@ -1,0 +1,12 @@
+{
+  "name": "@electronjs-cn/tsconfig",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "https://github.com/electronjs-cn/code-style.git",
+  "files": [
+    "*.json"
+  ],
+  "keywords": ["tsconfig", "tsconfig"],
+  "author": "Black-Hole<bh@bugs.cc>",
+  "license": "MIT"
+}

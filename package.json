@@ -1,0 +1,8 @@
+{
+  "name": "@electronjs-cn/code-style",
+  "private": true,
+  "version": "0.0.1",
+  "description": "code style",
+  "repository": "https://github.com/electronjs-cn/code-style.git",
+  "license": "MIT"
+}

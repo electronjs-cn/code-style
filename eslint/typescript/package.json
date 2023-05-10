@@ -1,0 +1,29 @@
+{
+  "name": "@electronjs-cn/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/electronjs-cn/code-style.git",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "code-style"
+  ],
+  "license": "MIT",
+  "files": [
+    "*.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@electronjs-cn/eslint-config-basic": "workspace:^0.1.1",
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0"
+  }
+}

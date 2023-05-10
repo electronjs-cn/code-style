@@ -1,0 +1,27 @@
+{
+  "name": "@electronjs-cn/eslint-config-react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/electronjs-cn/code-style.git",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "code-style"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@electronjs-cn/eslint-config-ts": "workspace:^0.1.2",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
